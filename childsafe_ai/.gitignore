@@ -1,0 +1,9 @@
+childsafe_ai/models/saved/RF_Count.pkl
+childsafe_ai/models/saved/RF_TF-IDF.pkl
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/

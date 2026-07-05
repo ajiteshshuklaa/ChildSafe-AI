@@ -27,24 +27,20 @@ Built during a Summer internship in **Cyber Security & AI** at the **Uttar Prade
 ---
 
 ## 📸 Demo
-
 <div align="center">
 
 ### 🏠 Home Interface
-
-<img src="demo/home.png" alt="ChildSafe AI Home" width="900"/>
+<img src="childsafe_ai/demo/home.png.png" width="900"/>
 
 <br><br>
 
 ### 📊 Threat Detection & Analysis
-
-<img src="demo/analysis.png" alt="Threat Analysis" width="900"/>
+<img src="childsafe_ai/demo/analysis.png.png" width="900"/>
 
 <br><br>
 
 ### ☎️ Suspicious Phone Number Checker
-
-<img src="demo/phone_checker.png" alt="Phone Checker" width="900"/>
+<img src="childsafe_ai/demo/phone_checker.png.png" width="900"/>
 
 </div>
 ---

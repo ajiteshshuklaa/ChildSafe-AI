@@ -30,20 +30,23 @@ Built during a Summer internship in **Cyber Security & AI** at the **Uttar Prade
 
 <div align="center">
 
-### 🌐 Web App
-<img src="demo/screenshot1.jpeg" alt="ChildSafe AI Web App" width="750"/>
-<p><em>Conversation input showing detected threat category and computed risk score</em></p>
+### 🏠 Home Interface
 
-<br/>
+<img src="demo/home.png" alt="ChildSafe AI Home" width="900"/>
 
-### 🖼️ Screenshot Analysis
-<img src="demo/screenshot2.jpeg" alt="OCR Screenshot Analysis" width="750"/>
-<p><em>OCR-based text extraction from a chat screenshot, followed by threat classification</em></p>
+<br><br>
+
+### 📊 Threat Detection & Analysis
+
+<img src="demo/analysis.png" alt="Threat Analysis" width="900"/>
+
+<br><br>
+
+### ☎️ Suspicious Phone Number Checker
+
+<img src="demo/phone_checker.png" alt="Phone Checker" width="900"/>
 
 </div>
-
-> Add your own screenshots to a `demo/` folder and update the image paths above.
-
 ---
 
 ## ✨ Key Features
